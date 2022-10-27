@@ -1,0 +1,6 @@
+{
+    "MONGO_ATLAS_PW" : "1234",
+    "MONGO_ATLAS_USER" : "satish",
+    "MONGO_URL" : "mongodb+srv://satish:1234@cluster0.usbnejn.mongodb.net/?retryWrites=true&w=majority",
+    "ADMIN_JWT_KEY" : "12345"
+}
